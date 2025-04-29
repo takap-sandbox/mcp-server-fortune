@@ -1,0 +1,15 @@
+{
+  "servers": {
+    "my-mcp-server-bf7193d2": {
+      "type": "stdio",
+      "command": "C:\\Users\\sidsu\\.local\\bin\\uv.EXE",
+      "args": [
+        "--directory",
+        "D:\\project\\blog-code\\20250428-mcp-server\\fortune",
+        "run",
+        "python",
+        "main.py"
+      ]
+    }
+  }
+}

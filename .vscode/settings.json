@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "ruff.enable": true,
+  "ruff.lint.run": "onSave",
+}
