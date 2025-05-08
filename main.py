@@ -4,7 +4,7 @@ import random
 mcp = FastMCP("fortune")
 
 
-@mcp.tool()
+@mcp.tool("weather_forecast", "An MCP tool for retrieving weather forecasts.")
 def fortune():
     fortunes = [
         "大吉",
